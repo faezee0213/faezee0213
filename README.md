@@ -1,6 +1,4 @@
-- 👋 Hi, I’m faezee0213
-- 👀 I’m interested in crypto
-- 🌱 I’m currently le<h1 align="center">Hi 👋, I'm Alexsdt</h1>
+- 👋 Hi, I’m faezee0213</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📫 How to reach me **fa.ezee021@gmail.com**
