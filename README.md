@@ -1,4 +1,4 @@
-- 👋 Hi, I’m faezee0213</h1>
+- 👋 Hi, I’m faezee</h1>
 <h3 align="center">A passionate frontend developer</h3>
 .
 - 📫 How to reach me **fa.ezee021@gmail.com**
