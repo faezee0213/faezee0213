@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 .
 - I like trade and crypto </h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">go too moon</h3>
 .
 - 📫 How to reach me **fa.ezee021@gmail.com**
 
