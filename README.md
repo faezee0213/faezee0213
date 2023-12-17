@@ -1,4 +1,4 @@
-- 👋 Hi, I’m faezee Juun</h1>
+- 👋 Hi, I’m faezee Jun</h1>
 <h3 align="center">A passionate frontend developer</h3>
 .
 - I like trade and crypto </h1>
